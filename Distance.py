@@ -9,11 +9,16 @@
 
 current_distance = input("Введи текущий километраж: ")
 print("current_distance : " + current_distance)
+print(type(current_distance))
 
-# 1. Прочитай от пользователя переменную
-#                 2. Пойми, зеркальное число или нет
 
-# Что можно делать с переменной?
+print("Пощупаем другие типы");
+var1 = 1;
+print(type(var1))
+var2 = True;
+print(type(var2))
+var3 = "test";
+print(type(var3))
 
 
 
