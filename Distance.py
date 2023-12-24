@@ -7,11 +7,9 @@
 # Ответ: Через 20 киломентов
 
 
-forr = "Pat"
-print("Привет, " + forr + "!")
+current_distance = input("Введи текущий километраж: ")
+print("current_distance : " + current_distance)
 
-forr = input("Введите ваше имя: ")
-print("Привет, " + forr + "!")
 
 
 
