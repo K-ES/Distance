@@ -10,7 +10,11 @@
 current_distance = input("Введи текущий километраж: ")
 print("current_distance : " + current_distance)
 
-print(dir(current_distance))
+print(current_distance[0])
+print(current_distance[-1])
+
+
+
 
 
 
